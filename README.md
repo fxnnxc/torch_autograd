@@ -5,3 +5,4 @@
 3. Model-Agnostic Meta Learning (MAML)
 4. Hessian of a neural network 
 5. Implicit Neural Representation
+6. Multiple Backwards
